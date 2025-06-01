@@ -1,7 +1,5 @@
 # EX 1D Linear search
 
-## DATE:
-
 ## AIM:
 To write a python program for a search function with parameter list name and the value to be searched using string values.
 
