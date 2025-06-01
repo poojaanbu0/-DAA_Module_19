@@ -7,11 +7,11 @@ To write a program to create a recursive function to reverse a string.
 
 ## Algorithm
 
-1.Input the string s.
-2.Define a recursive function reverse(s) i) If len(s) == 1, return s. ii) Otherwise, return s[-1] + reverse(s[:-1]).
-3.Call reverse(s) to reverse the string.
-4.The function recursively reverses the string by appending characters from the end.
-5.Print the reversed string.
+  1.Input the string s.
+  2.Define a recursive function reverse(s) i) If len(s) == 1, return s. ii) Otherwise, return s[-1] + reverse(s[:-1]).
+  3.Call reverse(s) to reverse the string.
+  4.The function recursively reverses the string by appending characters from the end.
+  5.Print the reversed string.
 
 ## Program:
 
