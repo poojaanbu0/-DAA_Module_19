@@ -7,19 +7,19 @@ To write a python program to sort the first half of the list using merge sort.
 
 ## Algorithm
 
-  1.Input the number of elements n and the array arr.
-    Define mergeSort(arr): If len(arr) > 1, divide the array into two halves and recursively sort each half.
-    Merge the two sorted halves by comparing elements and combining them back into arr.
-    Define printList(arr): Print each element of the array.
-    Call mergeSort(arr) to sort the array and print the result.
+   1.Input the number of elements n and the array arr.
+   2.Define mergeSort(arr): If len(arr) > 1, divide the array into two halves and recursively sort each half.
+   3.Merge the two sorted halves by comparing elements and combining them back into arr.
+   4.Define printList(arr): Print each element of the array.
+   5.Call mergeSort(arr) to sort the array and print the result.
 
 ## Program:
 
 ```
 /*
 Program to implement Merge Sort
-Developed by: Yuva Krishna K
-Register Number:  212222110056
+Developed by: Pooja A
+Register Number:  212222240072
 */
 
 def mergeSort(arr):
@@ -75,8 +75,10 @@ printList(arr)
 
 ```
 
+
 ## Output:
 ![447102103-4484adec-5f3d-47e5-bcd5-bb80a785dd82](https://github.com/user-attachments/assets/bcad3bf9-fb2b-4981-a88c-b6835c326c43)
+
 
 ## Result:
 The program successfully sorts a given list of values using the Merge Sort algorithm, displaying the sorted result.
