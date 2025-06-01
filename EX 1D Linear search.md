@@ -26,7 +26,11 @@ To write a python program for a search function with parameter list name and the
 ## Program:
 
 ```
-
+/*
+Program to implement Linear Search
+Developed by: Pooja A
+Register Number:  212222240072
+*/
 def search(tup,key):
     for i in tup:
         if i==key:
